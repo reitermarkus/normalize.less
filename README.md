@@ -19,6 +19,6 @@ whee!
 
 ## Credits
 
-* Markus Reiter [website](https://github.com/reitermarkus/normalize.less) for the original port
-* Nicolas Gallagher | Jonathan Neal [website](http://necolas.github.io/normalize.css/) for the awesomeness that is normalize.css
-* the less css team [website](https://github.com/less)
+* [Markus Reiter](https://github.com/reitermarkus/normalize.less) for the original port
+* [Nicolas Gallagher | Jonathan Neal](http://necolas.github.io/normalize.css/) for the awesomeness that is normalize.css
+* [the less css team](https://github.com/less)
