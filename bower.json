@@ -1,6 +1,6 @@
 {
   "name": "normalize-less",
-  "version": "0.1",
+  "version": "0.0.2",
   "main": "normalize.less",
   "authors": [
     "Richard Bailey <additive.inverse@gmail.com>"
