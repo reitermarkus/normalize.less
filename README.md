@@ -16,6 +16,10 @@ whee!
 ## Installation
 
     bower install normalize-less
+    
+## Current Version for bower-dependencies
+
+    0.0.2
 
 ## Credits
 
