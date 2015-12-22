@@ -1,0 +1,24 @@
+{
+  "name": "normalize.less",
+  "version": "0.0.2",
+  "description": "The LESS equivalent to normalize.css.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reitermarkus/normalize.less.git"
+  },
+  "keywords": [
+    "less",
+    "normalize",
+    "css"
+  ],
+  "author": "Markus Reiter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reitermarkus/normalize.less/issues"
+  },
+  "homepage": "https://github.com/reitermarkus/normalize.less#readme"
+}
